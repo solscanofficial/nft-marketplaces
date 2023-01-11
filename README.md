@@ -1,2 +1,2 @@
 # nft-marketplaces
-NFT Marketplace supported
+NFT Marketplaces supported
