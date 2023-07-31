@@ -139,6 +139,13 @@
       "logo": "https://raw.githubusercontent.com/solscanofficial/public-logos/main/yawww.png",
       "detailUrl": "https://www.yawww.io/marketplace/listing/",
       "color": "#EFCDFF"
+    },
+    "SOLSNIPER": {
+      "name": "Sniper",
+      "url": "https://www.sniper.xyz/",
+      "logo": "https://raw.githubusercontent.com/solscanofficial/public-logos/main/solsniper.svg",
+      "detailUrl": "https://www.sniper.xyz/asset/",
+      "color": "#0D3D7D"
     }
   }
 }
