@@ -146,6 +146,13 @@
       "logo": "https://raw.githubusercontent.com/solscanofficial/public-logos/main/solsniper.svg",
       "detailUrl": "https://www.sniper.xyz/asset/",
       "color": "#0D3D7D"
+    },
+    "MOOAR_AUCTION_HOUSE": {
+      "name": "Mooar",
+      "url": "https://mooar.com/",
+      "logo": "https://raw.githubusercontent.com/solscanofficial/public-logos/main/mooar.svg",
+      "detailUrl": "",
+      "color": "#F96A5B"
     }
   }
 }
